@@ -1,4 +1,4 @@
-Git is a distributed versionl control system
-Git is free software distributed under the GPL
-Git has a mutable index called stage
-Git tracks changes.
+1
+2
+3
+41
